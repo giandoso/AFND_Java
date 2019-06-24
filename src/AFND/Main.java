@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package automato;
+package AFND;
 
 import java.io.FileNotFoundException;
 import java.util.Arrays;
@@ -30,7 +30,7 @@ public class Main {
         
         
         for (int i = 0; i < palavras.size(); i++) {
-            System.out.print("Palavra: "+ palavras.get(i) +"\t\t| ");
+            System.out.print("Palavra: "+ palavras.get(i) +"\t\t\t| ");
             System.out.println(palavras_aceitas[i] == true ? "ACEITA" : "NÃO ACEITA");            
         }
         

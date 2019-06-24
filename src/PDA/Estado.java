@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package AFND;
+package PDA;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,12 +14,12 @@ import java.util.List;
  */
 public class Estado {
 
-    String id;
+    int id;
     boolean estado_inicial;
     boolean estado_final;
     List<Transicao> lista_transicoes;
 
-    public Estado(String id, boolean estado_inicial, boolean estado_final) {
+    public Estado(int id, boolean estado_inicial, boolean estado_final) {
         this.id = id;
         this.estado_inicial = estado_inicial;
         this.estado_final = estado_final;
@@ -33,5 +33,12 @@ public class Estado {
     public void set_lista_transicao(List<Transicao> t) {
         this.lista_transicoes = t;
     }
+    
+    public void set_inicial(boolean estado_inicial) {
+        this.estado_inicial = estado_inicial;
+    }
 
+    public void set_final(boolean estado_final) {
+        this.estado_final = estado_final;
+    }    
 }

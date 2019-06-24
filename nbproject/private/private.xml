@@ -3,12 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/Automato.java</file>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/automato2.input</file>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/Main.java</file>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/palavras2.input</file>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/palavras.input</file>
-            <file>file:/home/giandoso/NetBeansProjects/automato/src/automato/Estado.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/PDA/automato1.input</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/PDA/Automato.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/PDA/Main.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/AFND/Transicao.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/AFND/Estado.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/AFND/Automato.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/AFND/ReaderAutomato.java</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/PDA/automato2.input</file>
+            <file>file:/home/giandoso/NetBeansProjects/automato/src/AFND/Main.java</file>
         </group>
     </open-files>
 </project-private>
